@@ -1,4 +1,2 @@
--beli sepeda
-*baru/bekas
-*harga 10jtan
 -mencari dee
+* alon alon
